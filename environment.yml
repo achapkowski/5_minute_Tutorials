@@ -15,7 +15,7 @@ dependencies:
   - pip
   - matplotlib
   - seaborn
-  - arcgis >1.8.0
+  - arcgis
   - scipy
   - pillow
   - numpy
